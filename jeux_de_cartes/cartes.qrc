@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/cartes">
+        <file>00.gif</file>
+        <file>01.gif</file>
+        <file>02.gif</file>
+        <file>03.gif</file>
+        <file>04.gif</file>
+        <file>05.gif</file>
+        <file>06.gif</file>
+        <file>07.gif</file>
+        <file>08.gif</file>
+        <file>09.gif</file>
+        <file>10.gif</file>
+        <file>11.gif</file>
+        <file>12.gif</file>
+        <file>13.gif</file>
+        <file>14.gif</file>
+        <file>15.gif</file>
+        <file>16.gif</file>
+        <file>17.gif</file>
+        <file>18.gif</file>
+        <file>19.gif</file>
+        <file>20.gif</file>
+        <file>21.gif</file>
+        <file>22.gif</file>
+        <file>23.gif</file>
+        <file>24.gif</file>
+        <file>25.gif</file>
+        <file>26.gif</file>
+        <file>27.gif</file>
+        <file>28.gif</file>
+        <file>29.gif</file>
+        <file>30.gif</file>
+        <file>31.gif</file>
+        <file>32.gif</file>
+        <file>33.gif</file>
+        <file>34.gif</file>
+        <file>35.gif</file>
+        <file>36.gif</file>
+        <file>37.gif</file>
+        <file>38.gif</file>
+        <file>39.gif</file>
+        <file>back.gif</file>
+        <file>blank.gif</file>
+    </qresource>
+</RCC>
